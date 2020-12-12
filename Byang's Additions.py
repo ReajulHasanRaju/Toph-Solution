@@ -14,7 +14,7 @@ b=list(n)
 a=a[::-1]
 b=b[::-1]
 
-count =0;
+count =0
 
 if len(a)>=len(b):
     n=len(b)
